@@ -5,10 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Maps/TestMap.umap",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Maps/MainMap.umap",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/ss_GameMode.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/SS_PlayerController.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IA_Player_Fire.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IMP_Player.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IA_Player_Movement.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/BP_InputFire.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/BP_InputMove.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Players/BP_SpaceShooterPawn.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Players/BP_SS_Character.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Players/BP_SpaceS_Ammo.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/HUD/BP_UserWidget.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/HUD/BP_SS_HUD.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Enemies/BP_EnemyBase.uasset",
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Enemies/BP_EnemyBase_H.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/GameMode_Test.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/PlayerController_Test.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Maps/TestMap.umap",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset",
@@ -274,13 +289,7 @@
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Materials/M_Basic_Floor.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Audio/Starter_Birds01.uasset",
 				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Audio/Starter_Wind05.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Audio/Starter_Wind06.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Maps/MainMap.umap",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/ss_GameMode.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/SS_PlayerController.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IA_Player_Fire.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IMP_Player.uasset",
-				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/UNIR_SpaceShooter/Input/IA_Player_Movement.uasset"
+				"D:/videogames/unreal/UNIR_SpaceShooterUnreal/UnirSpaceShooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
 			]
 		}
 	]
